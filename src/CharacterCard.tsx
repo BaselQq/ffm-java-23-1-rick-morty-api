@@ -1,4 +1,4 @@
-import {Character} from "./characters.ts";
+import {Character} from "./characters.tsx";
 
 type CharacterCardProps = {
     character: Character
